@@ -1,2 +1,2 @@
-# popis
-simon si práctica 1
+# Popis
+Repositorio de prácticas
