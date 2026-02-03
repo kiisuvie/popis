@@ -1,2 +1,2 @@
 # Popis
-Repositorio de prácticas
+Repositorio de prácticas aaaauepoyas
